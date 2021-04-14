@@ -1,1 +1,1 @@
-alert("Welcome motherfucker")
+alert("Welcome motherfucker");
